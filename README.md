@@ -10,24 +10,6 @@ Customizable Reports: Generate and customize reports with ease, reflecting accur
 Password Strength Checker: Ensure data security with a built-in password strength checker.
 Installation
 To get started with Excel Processor, follow these steps:
-
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/YourUsername/ExcelProcessor.git
-Navigate to the project directory:
-bash
-Copy code
-cd ExcelProcessor
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Launch the application:
-bash
-Copy code
-python main.py
 Load your Excel files: Use the GUI to load the Excel files you want to process.
 Select Operations: Choose the desired operations, such as data integration, applying conditional formatting, and generating reports.
 Execute: Click the 'Run' button to perform the selected operations and save the output to a new Excel file.
