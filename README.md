@@ -1,6 +1,6 @@
 Excel Processor
 Overview
-Excel Processor is a robust tool designed to streamline and automate various Excel operations, developed during an internship at Vertiv Energy Pvt Ltd. This application leverages Python with libraries like pandas, openpyxl, and tkinter to provide a comprehensive solution for Excel file manipulation and data integration.
+Excel Processor is a robust tool designed to streamline and automate various Excel operations. This application leverages Python with libraries like pandas, openpyxl, and tkinter to provide a comprehensive solution for Excel file manipulation and data integration.
 
 Features
 Data Integration: Merge and manipulate data from multiple Excel sheets efficiently.
