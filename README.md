@@ -11,7 +11,7 @@ Installation
 To get started with Excel Processor, follow these steps:
 Load your Excel files: Use the GUI to load the Excel files you want to process.
 Select Operations: Choose the desired operations, such as data integration, applying conditional formatting, and generating reports.
-Execute: Click the 'Run' button to perform the selected operations and save the output to a new Excel file.
+Execute: Click the buttons to perform the selected operations and save the output to a new Excel file.
 Requirements
 Python 3.10 or higher
 pandas
